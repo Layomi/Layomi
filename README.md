@@ -7,7 +7,7 @@ I'm an Automation Engineer who is passionate about sharing knowledge, learning n
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Python.
 - 😊 I’m intrested in the future of cloud computing and automation.
 
